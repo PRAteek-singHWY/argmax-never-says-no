@@ -477,7 +477,7 @@ And if your evaluation never rewards that behaviour, you might not notice when y
 
 ---
 
-*A little about me: I'm a third-year CS undergraduate in India, a GSoC 2026 contributor to OWASP OpenCRE, and I work on RL environments and evaluation harnesses at a startup. This is my first LessWrong post, so corrections and disagreements are very welcome.*
+*A little about me: I'm a third-year CS undergraduate in India, a GSoC 2026 contributor to OWASP OpenCRE, and I work on RL environments and evaluation harnesses at a startup. Corrections and disagreements are very welcome.*
 
 *In particular, I'd love to hear from anyone who has calibrated a reject option on a dense retrieval index in production. Have you found a threshold that actually binds without causing excessive abstention?*
 
